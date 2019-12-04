@@ -27,7 +27,7 @@ public class TwoOptimization {
 
     private int fitness;
 
-    public List<Integer> alternate(List<Integer> cities) {
+    public List<Integer> doOpt(List<Integer> cities) {
         List<Integer> newTour;
 
         int newDist;

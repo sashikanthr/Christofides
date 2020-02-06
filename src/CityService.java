@@ -59,8 +59,5 @@ public class CityService {
         return Math.round((float) Math.sqrt(resultX * resultX + resultY * resultY));
     }
 
-    /*/
-    Testing webhook.
-    Testing webhook again.>
-     */
+
 }

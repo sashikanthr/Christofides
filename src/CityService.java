@@ -58,4 +58,8 @@ public class CityService {
         float resultY = Math.abs(city1.getyCoordinate() - city2.getyCoordinate());
         return Math.round((float) Math.sqrt(resultX * resultX + resultY * resultY));
     }
+
+    /*/
+    Testing webhook.
+     */
 }
